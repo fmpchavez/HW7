@@ -52,4 +52,4 @@
  npm test 
  
 ## 🙌👏This project exists thanks to this person who contributed. 
-<img src=https://avatars2.githubusercontent.com/u/59521993?v=4">
+<img src="https://avatars2.githubusercontent.com/u/59521993?v=4">
