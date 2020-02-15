@@ -51,5 +51,5 @@
  To run the test, use the following command: 
  npm test 
  
-## 🙌👏This project exists thanks to this person who contributed. 
+## 🙌👏This project exists thanks to this awesome person who contributed. 
 <img src="https://avatars2.githubusercontent.com/u/59521993?v=4">
