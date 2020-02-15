@@ -80,8 +80,8 @@ function init() {
             // console.log(response)
             let appendToFile = ""
             appendToFile += `<h1 style="text-align:center"> ${'👋'} Welcome to your project! </h1>\n \n`
-            appendToFile += `# ${"💻"} Demo \n \n 
-            <img src="demo.gif">\n \n`;
+            appendToFile += `# ${"💻"} Demo \n` 
+            appendToFile += `<img src="demo.gif">\n \n`;
             appendToFile += `# ${'🗳'} PROJECT NAME: ${response.projectName} \n \n`;
             appendToFile += `## ${"🗒"} Project Description \n \n ${response.description}\n \n`;
             appendToFile += `## ${'✨'} TABLE OF CONTENTS \n
@@ -101,8 +101,8 @@ function init() {
             appendToFile += `## ${'🏃‍♂️'} Test \n \n To run the test, use the following command: \n ${response.test} \n \n`;
     
             api.getUser(response.username).then(res=>{
-                appendToFile += `## ${'🙌👏'}This project exists thanks to this person who contributed. \n
-                <img src=${res.data.avatar_url}></img> \n`
+                appendToFile += `## ${'🙌👏'}This project exists thanks to this person who contributed. \n`
+                appendToFile += `<img src=${res.data.avatar_url}> \n`
                 // console.log(res.data)
                 
                 fs.writeFile('README.md', appendToFile, (err) => {
