@@ -1,4 +1,4 @@
-<h1 style="text-align:center"> 👋 Welcome to your project! </h1>
+<h1 style="text-align: center"> 👋 Welcome to your project! </h1>
  
 # 💻 Demo 
 <img src="demo.gif">
@@ -52,4 +52,4 @@
  npm test 
  
 ## 🙌👏This project exists thanks to this person who contributed. 
-<img src=https://avatars2.githubusercontent.com/u/59521993?v=4> 
+<img src=https://avatars2.githubusercontent.com/u/59521993?v=4">
