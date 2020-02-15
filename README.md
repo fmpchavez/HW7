@@ -1,9 +1,9 @@
-# 👋 Welcome to your project! 
+<h1 style="text-align:center"> 👋 Welcome to your project! </h1>
  
 # 💻 Demo 
  
  
-            <img src="./demo.gif">
+            <img src="demo.gif">
  
 # 🗳 PROJECT NAME: README Project 
  
@@ -32,11 +32,11 @@
  
 ## 🙊 Languages Needed 
  
- undefined
+ JavaScript,Mangose,Express,React,Node,MySQL
  
 ## 💳 License 
  
- This project is under the undefined license
+ This project is under the MIT license
  
 ## 💬 Contribution 
  
@@ -51,8 +51,8 @@
 ## 🏃‍♂️ Test 
  
  To run the test, use the following command: 
- npm test 
+ npm teat 
  
-🙌👏This project exists thanks to this person who contributed. 
+## 🙌👏This project exists thanks to this person who contributed. 
 
-                <img src=https://avatars2.githubusercontent.com/u/59521993?v=4> 
+                <img src=https://avatars2.githubusercontent.com/u/59521993?v=4></img> 
